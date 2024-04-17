@@ -27,4 +27,4 @@ python calculator.py
 
  ## Website Preview
 
-![Website Preview]()
+![Website Preview](https://github.com/mohsha313/simple-calulator/blob/main/calcpic.PNG)
